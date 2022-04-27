@@ -1,6 +1,6 @@
 # Book Search App
 
-<a href="link">![Deployed App](https://img.shields.io/badge/Deployed%20App-blue.svg)</a>
+<a href="https://book-search-engine-ecano.herokuapp.com/">![Deployed App](https://img.shields.io/badge/Deployed%20App-blue.svg)</a>
 
 ## Description
 
@@ -46,7 +46,7 @@ Contact me at **ely.cano2033@gmail.com** with any questions or if you'd like to 
 
 ## Links
 
-- **[Deployed App](https://link/)**
-- **[GitHub Repo](repo link)**
+- **[Deployed App](https://book-search-engine-ecano.herokuapp.com/)**
+- **[GitHub Repo](https://github.com/ElyCano/book-search-engine-ec.git)**
 - **[My Portfolio](https://professional-react-portafolio.herokuapp.com/)**
 - **[Connect on LinkedIn](https://www.linkedin.com/in/elizabeth-cano-6241b9226/)**
